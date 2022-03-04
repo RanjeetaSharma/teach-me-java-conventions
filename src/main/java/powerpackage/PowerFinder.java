@@ -2,7 +2,7 @@ package powerpackage;
 public static class PowerFinder {
     public static void main(String[] args) {
 
-        public static int powerOf (int base = 3, exponent = 4) {
+        public static long powerOf (int base = 3, exponent = 4) {
 
             long result = 1;
 
